@@ -1,4 +1,4 @@
-# Everything you need to know about Tetris
+# Cookery
 
 ## Project Information
 * Project Title: Tetris
